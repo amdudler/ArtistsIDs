@@ -1,1 +1,28 @@
-# ArtistsIDs
+# Projektname: Musiker-IDs Analyse
+
+## Projektziel
+Das Ziel dieses Projekts ist es, Musiker:innen, ihre Alben, Labels und weitere Metadaten zu sammeln, zu analysieren und zu visualisieren.  
+Wir wollen z. B. Spotify- oder Discography-Daten nutzen, um Beziehungen zwischen Künstler:innen, Labels und Releases darzustellen.
+
+## Projektbeschreibung
+Dieses Projekt soll eine Übersicht über verschiedene Musiker:innen bieten.
+Noch weitere Künstler werden in Zukunft folgen.
+
+Geplant ist:
+- Sammlung von Künstler:innen-IDs (z. B. Spotify oder andere APIs)
+- Zuordnung von Alben und Release-Daten
+- Speicherung der Daten in einer strukturierten Form (JSON, CSV, Datenbank)
+- Visualisierung von Beziehungen, Veröffentlichungen oder Labels
+
+## Notion-Protokoll
+Hier ist unser aktuelles Notion-Protokoll: [Notion-Link](https://www.notion.so/2ff791778aa980d3addaefc37fdcad2a?v=2ff791778aa980c2b3eb000c5ae3fed8&source=copy_link)
+
+## Geplante Features / To-Do
+- [ ] Alle Künstler:innen mit Spotify-IDs erfassen
+- [ ] Alben und Release-Daten sammeln
+- [ ] Label-Informationen zuordnen
+- [ ] Übersicht in Tabellen / Diagrammen erstellen
+- [ ] README und Protokoll regelmäßig aktualisieren
+
+## Changelog
+- 18.02.2026: README erstellt und Notion-Link eingefügt
