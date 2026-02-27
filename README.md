@@ -15,7 +15,7 @@ Geplant ist:
 - Visualisierung von Beziehungen, Veröffentlichungen oder Labels
 
 ## Notion-Protokoll
-Hier ist unser aktuelles Notion-Protokoll: [Notion-Link]([https://www.notion.so/2ff791778aa980d3addaefc37fdcad2a?v=2ff791778aa980c2b3eb000c5ae3fed8&source=copy_link](https://ambitious-nymphea-ede.notion.site/314791778aa9800480d8fc3c0c6c42b4?v=314791778aa980b49ec1000c93f43d19))
+Hier ist unser aktuelles Notion-Protokoll: [Notion-Link](https://ambitious-nymphea-ede.notion.site/314791778aa9800480d8fc3c0c6c42b4?v=314791778aa980b49ec1000c93f43d19)
 
 ## Geplante Features / To-Do
 - [ ] Alle Künstler:innen mit Spotify-IDs erfassen
